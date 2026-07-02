@@ -5,3 +5,7 @@ Los objetos son capaces de interactuar y modificar los valores contenidos en sus
 Muchos de los objetos prediseñados de los lenguajes de programacion actuales permiten la agrupacion en bibliotecas o librerias, sin embargo, muchos de estos lenguajes permiten al usuario la creacion de sus propias bibliotecas.
 
 Algunas caracteristicas clave de la programacion orientada a objetos son herencia, cohesion, abstraccion, polimorfismo, acoplamiento y encapsulamiento.
+
+
+CURSOS UTILES-
+https://youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN&si=iqsEh6AvBaGIqdLc
